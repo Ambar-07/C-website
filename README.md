@@ -1,7 +1,7 @@
 ---
 ## Crochet Kanya: Handcrafted with Love
 
-Crochet Kanya is an inviting e-commerce website that features exquisite, **handmade crochet creations**. Every item, from comforting baby blankets to distinctive home décor pieces, is crafted with dedication and affection. The website offers customers a pleasant Browse experience, enabling them to discover products, read customer feedback, and easily get in touch.
+Crochet Kanya is an inviting e-commerce store that features exquisite, **handmade crochet creations**. Every item, from comforting baby blankets to distinctive home décor pieces, is crafted with dedication and affection. The website offers customers a pleasant Browse experience, enabling them to discover products, read customer feedback, and easily get in touch.
 
 ---
 ### Key Features
